@@ -14,3 +14,13 @@ h1{
   font-family: cursive;
   font-size: 30px;
 }
+img{
+  float:right;
+}
+#headline{
+  font-family: cursive;
+  color: #06800D;
+}
+body{
+  background-color: #DAF7A6;
+}

@@ -1,8 +1,5 @@
 # _My first week web page_
 
-#### _My web page was build by using grids, boxes,picture,list,and bootstrap's classes_
-
-#### By _**{List of contributors}**_
 
 ## _Description of my first web page_
 

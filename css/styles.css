@@ -24,3 +24,32 @@ img{
 body{
   background-color: #DAF7A6;
 }
+.image
+{
+  border:5px solid lightskyblue;
+  padding:2px;
+  margin:2px;
+}
+#hTagID
+{
+  font-family: cursiv;
+  color: red;
+
+}
+#pTagID
+{
+  color:red;
+
+}
+#aTagID
+{
+ color: blue;
+}
+#imgTagID
+{
+color:orange;
+}
+#divTagID
+{
+  color:red;
+}

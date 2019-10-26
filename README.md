@@ -26,16 +26,10 @@ _Copyright(c)2019_ __Adilet Momunaliev , Epicodus__
 
 >_This is my email address: [email](adiletm@hotmail.com)_
 
-___
+ There is link for my page:[here is link for my page](https://adilet312.github.io/Project-Week-One/)
 
 ## _Technologies Used_
 
 * _OS Unix_
 * _Browser Chrome_
 * _IDE VS Code_
-
-
-
-
-
-
